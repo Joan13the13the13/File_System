@@ -1,2 +1,2 @@
-# sistem_file
+# sstem_file
 Pràctica Final SO2
